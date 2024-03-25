@@ -10,3 +10,5 @@ This project demonstrates JWT (JSON Web Token) based authentication for a Go web
 * **bcrypt:** Secure password hashing ([https://snyk.io/blog/secure-password-hashing-in-go/](https://snyk.io/blog/secure-password-hashing-in-go/))
 * **JWT-Go:** Efficient implementation of JWT for Go ([https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go))
 
+The base of the code was from the Coding with Robby channel on YouTube
+
