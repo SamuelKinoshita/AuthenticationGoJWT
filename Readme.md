@@ -1,7 +1,5 @@
 ## JWT Authentication in Go (Gin/Gorm)
 
-I'd be glad to help you improve the README for your JWT Authentication project in Go (Gin/Gorm). Here's a revised version incorporating the best aspects of the previous responses and addressing potential shortcomings:
-
 **## JWT Authentication in Go (Gin/Gorm)**
 
 This project demonstrates JWT (JSON Web Token) based authentication for a Go web application using the following libraries:
