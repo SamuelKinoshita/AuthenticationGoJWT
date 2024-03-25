@@ -1,11 +1,14 @@
 ## JWT Authentication in Go (Gin/Gorm)
 
-Baseado no canal 
-Coding with Robby
+I'd be glad to help you improve the README for your JWT Authentication project in Go (Gin/Gorm). Here's a revised version incorporating the best aspects of the previous responses and addressing potential shortcomings:
 
-Libs
-GORM - https://gorm.io/
-Gin - https://gin-gonic.com/
-Dotenv - https://github.com/joho/godotenv
-Bcrypt - https://pkg.go.dev/golang.org/x/crypt...
-JWT-Go - https://github.com/golang-jwt/jwt
+**## JWT Authentication in Go (Gin/Gorm)**
+
+This project demonstrates JWT (JSON Web Token) based authentication for a Go web application using the following libraries:
+
+* **GORM (v2):** Object-relational mapper for Go ([https://gorm.io/](https://gorm.io/))
+* **Gin (v1.x):** High-performance HTTP web framework ([https://gin-gonic.com/](https://gin-gonic.com/))
+* **dotenv:** Loads environment variables from a `.env` file ([https://github.com/joho/godotenv](https://github.com/joho/godotenv))
+* **bcrypt:** Secure password hashing ([https://snyk.io/blog/secure-password-hashing-in-go/](https://snyk.io/blog/secure-password-hashing-in-go/))
+* **JWT-Go:** Efficient implementation of JWT for Go ([https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go))
+
